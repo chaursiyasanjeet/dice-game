@@ -1,6 +1,5 @@
 {
   "name": "dice-game",
-  "homepage": "https://chaursiyasanjeet.github.io/dice-game/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
