@@ -60,7 +60,7 @@ export default function App() {
     <div>
       <main>
         {game && <Confetti />}
-        <h1 className="title"><u>Dice Game</u></h1>
+        <h1 className="title"><u>Dice Games</u></h1>
         <p className="instruction">Roll until all dice are the same. Click each die to freeze it at its current value between rolls.</p>
         <div className="dice-container">
           {diceElements}
